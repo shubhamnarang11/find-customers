@@ -1,0 +1,15 @@
+{
+  "name": "findcustomers",
+  "version": "1.0.0",
+  "description": "This is used to find customers using npm package location-finder.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Narang",
+  "license": "ISC",
+  "dependencies": {
+    "location-finder": "^1.0.1"
+  }
+}
